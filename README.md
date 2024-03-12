@@ -16,7 +16,7 @@ samples, guidance on mobile development, and a full API reference.
 ## PageRouter en FlutLab - Flutter Online IDE
 - Dylan Lozano Avelar
 - a.21308051280373@cbtis128.edu.mx
-- 
+
 ## Links de Referencia
 - Documento de Google Drive: https://drive.google.com/file/d/1p0bEehsZnFB0TvBkwz6rbJE8oyVkbv23/view
 
