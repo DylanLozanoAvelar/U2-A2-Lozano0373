@@ -8,14 +8,14 @@ class Pantalla1_0373 extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text("Pantalla1 Lozano"),
+        title: Text("Pantalla1 Lozano 0373"),
         backgroundColor: Colors.green,
       ),
       body: Center(
           child: Column(
         children: [
           Container(
-            child: Text("Lozano Ejemplo"),
+            child: Text("Lozano 0373 Ejemplo"),
           ),
         ],
       )),
